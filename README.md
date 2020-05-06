@@ -1,2 +1,2 @@
 # himnovaciones
-Practicar git
+Hacer una corrección a la vez.
